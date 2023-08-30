@@ -20,3 +20,6 @@ DROP COLUMN gender;
 ALTER TABLE student
 MODIFY COLUMN age VARCHAR(255);
 
+-- dropping the student table
+DROP TABLE student;
+
